@@ -1,4 +1,4 @@
-<h1 align="center">
+ <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Aiden;Shivam+Kumar+Sharma" alt="Typing SVG" />
 </h1>
 
@@ -12,6 +12,12 @@
   <a href="https://github.com/Aiden781Xx"><img src="https://img.shields.io/github/followers/Aiden781Xx?label=Followers&style=for-the-badge&color=00D9FF&labelColor=1a1b27" alt="GitHub followers" /></a>
   <a href="https://github.com/Aiden781Xx"><img src="https://img.shields.io/github/stars/Aiden781Xx?label=Stars&style=for-the-badge&color=00D9FF&labelColor=1a1b27" alt="GitHub stars" /></a>
   <img src="https://komarev.com/ghpvc/?username=Aiden781Xx&style=for-the-badge&color=00D9FF&labelColor=1a1b27" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Aiden781Xx/Aiden781Xx/actions/workflows/snake.yml">
+    <img src="https://github.com/Aiden781Xx/Aiden781Xx/actions/workflows/snake.yml/badge.svg" alt="Snake Animation Status" />
+  </a>
 </p>
 
 ---
@@ -236,14 +242,23 @@ Tech Stack:
 
 ## 🐍 Contribution Snake Game
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aiden781Xx/Aiden781Xx/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aiden781Xx/Aiden781Xx/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aiden781Xx/Aiden781Xx/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/Aiden781Xx/Aiden781Xx/output/github-contribution-grid-snake-dark.svg)
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aiden781Xx/Aiden781Xx/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aiden781Xx/Aiden781Xx/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aiden781Xx/Aiden781Xx/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+</div>
 
 <p align="center">
-  <em>🎮 Watch the snake devour my contributions! Updates every 12 hours.</em>
+  <em>🎮 Watch the snake devour my contributions! Updates automatically every 12 hours.</em><br>
+  <a href="https://github.com/Aiden781Xx/Aiden781Xx/actions/workflows/snake.yml">
+    <img src="https://github.com/Aiden781Xx/Aiden781Xx/actions/workflows/snake.yml/badge.svg" alt="Generation Status" />
+  </a>
 </p>
 
 ---
