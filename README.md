@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-### 🚀 Full-Stack MERN Developer | Freelancer | Prompt Engineer | AI Enthusiast
+### 🚀 Full-Stack MERN Developer | Freelancer | AI Prompt Engineer | Cloud Learner
 
 [![Followers](https://img.shields.io/github/followers/Aiden781Xx?label=Followers&style=for-the-badge&logo=github&color=00D9FF&labelColor=1a1b27)](https://github.com/Aiden781Xx)
 [![Stars](https://img.shields.io/github/stars/Aiden781Xx?label=Stars&style=for-the-badge&logo=github&color=00D9FF&labelColor=1a1b27)](https://github.com/Aiden781Xx)
@@ -21,36 +21,27 @@
 
 ```typescript
 const aiden = {
-  role: "Full-Stack MERN Developer",
-  workStatus: "Freelancer & Open to Opportunities 💼",
-  specialization: "Prompt Engineering & AI Integration",
+  role: "Full-Stack Developer & Backend Engineer",
   location: "Delhi, India 🇮🇳",
   
   expertise: {
-    fullStack: ["MongoDB", "Express.js", "React.js", "Node.js"],
-    frontend: ["Next.js", "TypeScript", "Tailwind CSS", "React Hooks"],
-    backend: ["RESTful APIs", "GraphQL", "JWT Auth", "Microservices"],
+    backend: ["Node.js", "Express.js", "RESTful APIs", "Microservices"],
+    frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
     databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-    aiTools: ["ChatGPT API", "Claude API", "Prompt Engineering", "LangChain"],
-    devOps: ["Docker", "CI/CD", "AWS", "GitHub Actions"]
+    cloud: ["AWS (EC2, S3, Lambda)", "Docker", "CI/CD"],
+    architecture: ["System Design", "Event-Driven", "MVC Pattern"]
   },
   
-  currentlyLearning: [
-    "Advanced Prompt Engineering techniques",
-    "AI Agent development with LangChain",
-    "Kubernetes & Container Orchestration",
-    "System Design at scale"
+  currentlyLearning: ["Kubernetes", "Apache Kafka", "GraphQL", "AWS Solutions Architecture"],
+  
+  goals2024: [
+    "Master System Design patterns",
+    "Build production-grade microservices",
+    "Contribute to open-source projects",
+    "Achieve AWS Solutions Architect certification"
   ],
   
-  freelanceServices: [
-    "Full-Stack MERN Development",
-    "Custom AI Integration & Chatbots",
-    "Prompt Engineering Consulting",
-    "API Development & Integration",
-    "Web App Development & Deployment"
-  ],
-  
-  philosophy: "Build AI-powered solutions that solve real problems 🤖🚀"
+  philosophy: "Build scalable, Ship fast, Automate everything 🚀"
 };
 ```
 
@@ -67,23 +58,6 @@ const aiden = {
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
 <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,html,css,tailwind,bootstrap" />
-
-### 🤖 AI & Prompt Engineering
-
-<img src="https://skillicons.dev/icons?i=openai" width="48" height="48" />
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Integration-00D9FF?style=for-the-badge&logo=robot&logoColor=white" />
-
-### 🤖 AI & Prompt Engineering
-
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" />
-<img src="https://img.icons8.com/color/96/chatgpt.png" width="48" height="48" alt="ChatGPT"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw5MWtFWFQ-jQqe6pJE4YFaRCiO1sJ_wY1lQ&s" width="48" height="48" alt="Claude AI"/>
-<img src="https://img.icons8.com/color/96/google-gemini.png" width="48" height="48" alt="Gemini"/>
-<img src="https://www.svgrepo.com/show/354012/langchain-icon.svg" width="48" height="48" alt="LangChain"/>
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="HuggingFace"/>
 
 ### 🗄️ Databases & Caching
 
@@ -114,28 +88,28 @@ const aiden = {
 
 | Technology | Proficiency | Experience | Status |
 |:-----------|:------------|:-----------|:-------|
-| **MERN Stack** | ![](https://geps.dev/progress/92?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 2+ years | 🔥 Expert |
-| **React.js + Next.js** | ![](https://geps.dev/progress/90?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 2+ years | 🔥 Expert |
-| **Node.js + Express** | ![](https://geps.dev/progress/88?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 2+ years | ⚡ Advanced |
-| **MongoDB** | ![](https://geps.dev/progress/85?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 2+ years | ⚡ Advanced |
-| **Prompt Engineering** | ![](https://geps.dev/progress/87?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ year | ⚡ Advanced |
+| **Node.js + Express** | ![](https://geps.dev/progress/90?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 2+ years | 🔥 Expert |
+| **React.js** | ![](https://geps.dev/progress/85?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 2+ years | ⚡ Advanced |
+| **MongoDB** | ![](https://geps.dev/progress/88?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 2+ years | ⚡ Advanced |
 | **JavaScript/TypeScript** | ![](https://geps.dev/progress/90?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 2+ years | 🔥 Expert |
 | **REST API Design** | ![](https://geps.dev/progress/92?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 2+ years | 🔥 Expert |
-| **ChatGPT/Claude API** | ![](https://geps.dev/progress/83?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ year | ⚡ Advanced |
-| **Tailwind CSS** | ![](https://geps.dev/progress/88?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1.5+ years | ⚡ Advanced |
-| **Docker & CI/CD** | ![](https://geps.dev/progress/75?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ year | 📈 Intermediate |
+| **MySQL/PostgreSQL** | ![](https://geps.dev/progress/78?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1.5+ years | ⚡ Advanced |
+| **Next.js** | ![](https://geps.dev/progress/80?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ year | ⚡ Advanced |
+| **Redis Caching** | ![](https://geps.dev/progress/75?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ year | 📈 Intermediate |
+| **Docker** | ![](https://geps.dev/progress/72?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ year | 📈 Intermediate |
+| **CI/CD (GitHub Actions)** | ![](https://geps.dev/progress/80?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ year | ⚡ Advanced |
 
 ### 🌱 Currently Learning
 
 | Technology | Progress | Target | Status |
 |:-----------|:---------|:-------|:-------|
-| **Advanced Prompt Engineering** | ![](https://geps.dev/progress/75?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Ongoing | 🎯 Active |
-| **LangChain & AI Agents** | ![](https://geps.dev/progress/65?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Jan 2025 | 🎯 Active |
-| **AWS Solutions Architecture** | ![](https://geps.dev/progress/60?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Mar 2025 | 🎯 Active |
-| **Kubernetes** | ![](https://geps.dev/progress/50?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Feb 2025 | 📚 Learning |
-| **System Design Patterns** | ![](https://geps.dev/progress/68?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Ongoing | 🎯 Active |
-| **GraphQL** | ![](https://geps.dev/progress/55?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Mar 2025 | 📚 Learning |
-| **Apache Kafka** | ![](https://geps.dev/progress/45?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Q2 2025 | 📚 Learning |
+| **AWS Solutions Architecture** | ![](https://geps.dev/progress/65?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Dec 2025 | 🎯 Active |
+| **Kubernetes** | ![](https://geps.dev/progress/55?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Jan 2025 | 🎯 Active |
+| **Apache Kafka** | ![](https://geps.dev/progress/60?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Feb 2025 | 🎯 Active |
+| **System Design** | ![](https://geps.dev/progress/70?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Ongoing | 🎯 Active |
+| **GraphQL** | ![](https://geps.dev/progress/50?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Mar 2025 | 📚 Learning |
+| **Terraform (IaC)** | ![](https://geps.dev/progress/45?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Q1 2025 | 📚 Learning |
+| **Microservices Architecture** | ![](https://geps.dev/progress/68?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Ongoing | 🎯 Active |
 
 </div>
 
@@ -255,54 +229,55 @@ Tech Stack:
 <tr>
 <td width="50%">
 
-### 🤖 AI-Powered Chat Application
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="400">
+### 🛰️ Kafka Microservices Lab
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="400">
 
-**Full-Stack MERN + AI Integration**
+**Event-Driven Architecture Sandbox**
 
 ```yaml
-Features:
-  ├─ ChatGPT/Claude API Integration
-  ├─ Context-Aware Conversations
-  ├─ Prompt Engineering Templates
-  ├─ Real-time Response Streaming
-  └─ User History & Analytics
+Implementation:
+  ├─ Producer-Consumer Pattern
+  ├─ Topic Partitioning Strategy
+  ├─ Message Persistence & Replay
+  ├─ Dead Letter Queue Handling
+  └─ Docker Compose Setup
 
 Tech Stack:
-  Backend: Node.js, Express, MongoDB
-  Frontend: React, TypeScript, TailwindCSS
-  AI: OpenAI API, Claude API
-  Real-time: Socket.io
+  Messaging: Apache Kafka, Zookeeper
+  Services: Node.js, Express
+  Container: Docker, Docker Compose
+  Monitor: Kafka Manager, Prometheus
 ```
 
 [![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aiden781Xx)
-[![Live](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://demo.com)
+[![Docs](https://img.shields.io/badge/Documentation-00D9FF?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Aiden781Xx)
 
 </td>
 <td width="50%">
 
-### 🎨 SaaS Project Management Tool
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="400">
+### ☁️ AWS Cloud Infrastructure
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="400">
 
-**Production-Ready MERN Application**
+**Terraform Infrastructure as Code**
 
 ```yaml
-Features:
-  ├─ Kanban Board & Task Management
-  ├─ Real-time Collaboration
-  ├─ Role-Based Access Control
-  ├─ File Upload (AWS S3)
-  └─ Payment Integration (Stripe)
+Infrastructure:
+  ├─ VPC with Public/Private Subnets
+  ├─ Auto-Scaling EC2 Instances
+  ├─ Application Load Balancer
+  ├─ RDS Multi-AZ Database
+  └─ S3 + CloudFront CDN
 
 Tech Stack:
-  Backend: Node.js, Express, MongoDB, Redis
-  Frontend: Next.js, Redux, Tailwind
-  Cloud: AWS S3, Vercel
-  Payments: Stripe API
+  IaC: Terraform, AWS CloudFormation
+  Compute: EC2, Lambda, ECS
+  Database: RDS (PostgreSQL), DynamoDB
+  Storage: S3, EBS, EFS
+  Network: VPC, Route53, CloudFront
 ```
 
 [![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aiden781Xx)
-[![Live](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://demo.com)
+[![Architecture](https://img.shields.io/badge/Architecture-00D9FF?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/Aiden781Xx)
 
 </td>
 </tr>
@@ -364,37 +339,35 @@ Tech Stack:
 timeline
     title 2025 Learning & Development Roadmap
     
-    Q1 2025 : Advanced Prompt Engineering
-            : LangChain AI Agent development
-            : Complete MERN SaaS projects
-            : AWS fundamentals & deployment
+    Q1 2025 : AWS Solutions Architect
+            : Complete Kafka microservices project
+            : Master Kubernetes basics
+            : System Design patterns
     
-    Q2 2025 : AI integration patterns
-            : Kubernetes basics
-            : System Design mastery
-            : Freelance portfolio expansion
-    
-    Q3 2025 : GraphQL API development
+    Q2 2025 : GraphQL API development
             : Advanced Docker & K8s
-            : Open-source contributions
-            : Build AI-powered products
+            : Terraform infrastructure
+            : Contribute to open-source
     
-    Q4 2025 : Full-stack AI applications
-            : Advanced system architecture
-            : Tech content creation
-            : Mentor & teach others
+    Q3 2025 : AWS DevOps Professional
+            : Build production SaaS
+            : Advanced System Design
+            : Mentor junior developers
+    
+    Q4 2025 : Blockchain fundamentals
+            : Advanced Kafka patterns
+            : Tech leadership skills
+            : Open-source maintainer
 ```
 
-### 🎓 Learning Goals & Certifications
+### 🎓 Certifications & Goals
 
-| Goal | Status | Target Date |
-|------|--------|-------------|
-| Advanced Prompt Engineering | 🎯 In Progress | Ongoing |
-| LangChain & AI Agents | 🎯 In Progress | Jan 2025 |
-| AWS Solutions Architect Associate | 📚 Planned | Mar 2025 |
-| System Design Mastery | 🎯 In Progress | Ongoing |
-| GraphQL Expert | 📚 Planned | Q2 2025 |
-| Freelance 10+ Projects | 🎯 In Progress | Dec 2025 |
+| Certification | Status | Target Date |
+|--------------|--------|-------------|
+| AWS Solutions Architect Associate | 🎯 In Progress | Mar 2025 |
+| AWS DevOps Engineer Professional | 📚 Planned | Aug 2025 |
+| Certified Kubernetes Administrator (CKA) | 📚 Planned | Jun 2025 |
+| MongoDB Certified Developer | ✅ Completed | - |
 
 </div>
 
@@ -408,55 +381,47 @@ timeline
 <tr>
 <td width="25%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><br>
-<strong>MERN Mastery</strong><br>
-<sub>Full-stack excellence</sub>
+<strong>Scalability First</strong><br>
+<sub>Design systems that grow</sub>
 </td>
 <td width="25%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
-<strong>AI Integration</strong><br>
-<sub>Prompt engineering expert</sub>
+<strong>Clean Architecture</strong><br>
+<sub>SOLID principles & patterns</sub>
 </td>
 <td width="25%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
-<strong>Client-Focused</strong><br>
-<sub>Freelance excellence</sub>
+<strong>Test-Driven</strong><br>
+<sub>Quality over speed</sub>
 </td>
 <td width="25%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"><br>
-<strong>Fast Delivery</strong><br>
-<sub>Quality & speed balance</sub>
+<strong>Automate Everything</strong><br>
+<sub>CI/CD & DevOps mindset</sub>
 </td>
 </tr>
 </table>
 
 ### 💭 Code Philosophy
 
-> **"The best code is no code at all. The second best is simple, readable code."** - Jeff Atwood
+> **"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."** - Martin Fowler
 
 ```python
-class FreelanceDeveloper:
+class Developer:
     def __init__(self):
-        self.stack = ["MongoDB", "Express", "React", "Node.js"]
-        self.speciality = "AI-Powered Web Applications"
-        self.mindset = "Client Success is My Success"
+        self.code_quality = ["Clean", "Testable", "Scalable", "Maintainable"]
+        self.approach = "API-First Design"
+        self.mindset = "Build to Last, Not Just to Launch"
         
     def daily_routine(self):
         return [
             "☕ Coffee",
-            "💼 Client Communication",
-            "💻 Code & Build",
-            "🤖 AI Integration",
+            "💻 Code",
+            "🧪 Test",
+            "📚 Learn",
             "🚀 Deploy",
-            "📚 Learn New Tech"
+            "🔄 Repeat"
         ]
-    
-    def freelance_values(self):
-        return {
-            "communication": "Regular updates",
-            "quality": "Production-ready code",
-            "deadline": "Always on time",
-            "support": "Post-delivery assistance"
-        }
 ```
 
 </div>
@@ -478,17 +443,14 @@ class FreelanceDeveloper:
 
 ### 💬 Let's Collaborate!
 
-**I'm available for:**
-- 💼 Freelance MERN Stack Projects
-- 🤖 AI-Powered Web Applications
-- 🎨 Custom Web Development
-- 🚀 API Development & Integration
-- 💡 Prompt Engineering Consulting
-- 🎓 Technical Mentoring
+**I'm interested in:**
+- 🚀 Backend & Cloud Architecture projects
+- 🏗️ System Design discussions
+- 🤝 Open-source contributions
+- 💼 Freelance opportunities
+- 🎓 Mentoring & knowledge sharing
 
-**💰 Hourly Rate:** Competitive | **📅 Availability:** Open for new projects
-
-**Feel free to reach out for project discussions or collaborations!**
+**Feel free to reach out for collaborations or just a tech chat!**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
