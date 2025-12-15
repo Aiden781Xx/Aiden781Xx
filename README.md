@@ -12,7 +12,7 @@
 [![Stars](https://img.shields.io/github/stars/Aiden781Xx?label=Stars&style=for-the-badge&logo=github&color=00D9FF&labelColor=1a1b27)](https://github.com/Aiden781Xx)
 [![Profile Views](https://komarev.com/ghpvc/?username=Aiden781Xx&style=for-the-badge&color=00D9FF&labelColor=1a1b27)](https://github.com/Aiden781Xx)
 [![Snake Status](https://github.com/Aiden781Xx/Aiden781Xx/actions/workflows/snake.yml/badge.svg)](https://github.com/Aiden781Xx/Aiden781Xx/actions/workflows/snake.yml)
-
+<br>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
