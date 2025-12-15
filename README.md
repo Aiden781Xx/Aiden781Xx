@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+MERN+Developer;Freelancer+%7C+Prompt+Engineer;Building+AI-Powered+Web+Solutions" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br>
 
 ### 🚀 Full-Stack MERN Developer | Freelancer | AI Prompt Engineer | Cloud Learner
 
@@ -88,12 +89,12 @@ const aiden = {
 
 | Technology | Proficiency | Experience | Status |
 |:-----------|:------------|:-----------|:-------|
-| **Node.js + Express** | ![](https://geps.dev/progress/90?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 2+ years | 🔥 Expert |
-| **React.js** | ![](https://geps.dev/progress/85?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 2+ years | ⚡ Advanced |
-| **MongoDB** | ![](https://geps.dev/progress/88?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 2+ years | ⚡ Advanced |
-| **JavaScript/TypeScript** | ![](https://geps.dev/progress/90?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 2+ years | 🔥 Expert |
-| **REST API Design** | ![](https://geps.dev/progress/92?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 2+ years | 🔥 Expert |
-| **MySQL/PostgreSQL** | ![](https://geps.dev/progress/78?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1.5+ years | ⚡ Advanced |
+| **Node.js + Express** | ![](https://geps.dev/progress/90?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ years | 🔥 Expert |
+| **React.js** | ![](https://geps.dev/progress/85?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ years | ⚡ Advanced |
+| **MongoDB** | ![](https://geps.dev/progress/88?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ years | ⚡ Advanced |
+| **JavaScript/TypeScript** | ![](https://geps.dev/progress/90?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1.5+ years | 🔥 Expert |
+| **REST API Design** | ![](https://geps.dev/progress/92?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ years | 🔥 Expert |
+| **MySQL/PostgreSQL** | ![](https://geps.dev/progress/78?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ years | ⚡ Advanced |
 | **Next.js** | ![](https://geps.dev/progress/80?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ year | ⚡ Advanced |
 | **Redis Caching** | ![](https://geps.dev/progress/75?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ year | 📈 Intermediate |
 | **Docker** | ![](https://geps.dev/progress/72?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ year | 📈 Intermediate |
@@ -103,11 +104,11 @@ const aiden = {
 
 | Technology | Progress | Target | Status |
 |:-----------|:---------|:-------|:-------|
-| **AWS Solutions Architecture** | ![](https://geps.dev/progress/65?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Dec 2025 | 🎯 Active |
-| **Kubernetes** | ![](https://geps.dev/progress/55?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Jan 2025 | 🎯 Active |
-| **Apache Kafka** | ![](https://geps.dev/progress/60?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Feb 2025 | 🎯 Active |
+| **AWS Solutions Architecture** | ![](https://geps.dev/progress/65?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | March 2026 | 🎯 Active |
+| **Kubernetes** | ![](https://geps.dev/progress/55?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | April 2026 | 🎯 Active |
+| **Apache Kafka** | ![](https://geps.dev/progress/60?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | June 2026 | 🎯 Active |
 | **System Design** | ![](https://geps.dev/progress/70?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Ongoing | 🎯 Active |
-| **GraphQL** | ![](https://geps.dev/progress/50?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Mar 2025 | 📚 Learning |
+| **GraphQL** | ![](https://geps.dev/progress/50?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | January 2026 | 📚 Learning |
 | **Terraform (IaC)** | ![](https://geps.dev/progress/45?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Q1 2025 | 📚 Learning |
 | **Microservices Architecture** | ![](https://geps.dev/progress/68?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Ongoing | 🎯 Active |
 
@@ -364,9 +365,9 @@ timeline
 
 | Certification | Status | Target Date |
 |--------------|--------|-------------|
-| AWS Solutions Architect Associate | 🎯 In Progress | Mar 2025 |
-| AWS DevOps Engineer Professional | 📚 Planned | Aug 2025 |
-| Certified Kubernetes Administrator (CKA) | 📚 Planned | Jun 2025 |
+| AWS Solutions Architect Associate | 🎯 In Progress | 2026 |
+| AWS DevOps Engineer Professional | 📚 Planned | 2026 |
+| Certified Kubernetes Administrator (CKA) | 📚 Planned 2026 |
 | MongoDB Certified Developer | ✅ Completed | - |
 
 </div>
@@ -432,10 +433,10 @@ class Developer:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-sharma-193226311/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivambhardwaj750000@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personalshivamglbajaj.netlify.app/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourprofile)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
 
