@@ -1,318 +1,162 @@
- <div align="center">
+<div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm Aiden (Shivam Kumar Sharma)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Aiden&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20MERN%20Developer%20|%20Cloud%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+MERN+Developer;Freelancer+%7C+Prompt+Engineer;Building+AI-Powered+Web+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+Scalable+APIs+%F0%9F%8C%90;System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Cloud+%26+DevOps+Learner+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-<br>
 
-### 🚀 Full-Stack MERN Developer | Freelancer | AI Prompt Engineer | Cloud Learner
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-sharma-193226311/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://personalshivamglbajaj.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivambhardwaj750000@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Aiden781Xx&color=blueviolet&style=for-the-badge)](https://github.com/Aiden781Xx)
 
-[![Followers](https://img.shields.io/github/followers/Aiden781Xx?label=Followers&style=for-the-badge&logo=github&color=00D9FF&labelColor=1a1b27)](https://github.com/Aiden781Xx)
-[![Stars](https://img.shields.io/github/stars/Aiden781Xx?label=Stars&style=for-the-badge&logo=github&color=00D9FF&labelColor=1a1b27)](https://github.com/Aiden781Xx)
-[![Profile Views](https://komarev.com/ghpvc/?username=Aiden781Xx&style=for-the-badge&color=00D9FF&labelColor=1a1b27)](https://github.com/Aiden781Xx)
-[![Snake Status](https://github.com/Aiden781Xx/Aiden781Xx/actions/workflows/snake.yml/badge.svg)](https://github.com/Aiden781Xx/Aiden781Xx/actions/workflows/snake.yml)
-<br>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
-```typescript
+```javascript
 const aiden = {
-  role: "Full-Stack Developer & Backend Engineer",
   location: "Delhi, India 🇮🇳",
-  
-  expertise: {
-    backend: ["Node.js", "Express.js", "RESTful APIs", "Microservices"],
-    frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
-    databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-    cloud: ["AWS (EC2, S3, Lambda)", "Docker", "CI/CD"],
-    architecture: ["System Design", "Event-Driven", "MVC Pattern"]
+  role: "Full-Stack MERN Developer",
+  currentFocus: ["Backend Architecture", "System Design", "Cloud Infrastructure"],
+  techStack: {
+    backend: ["Node.js", "Express", "REST APIs", "Microservices"],
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+    cloud: ["AWS", "Docker", "CI/CD"]
   },
-  
-  currentlyLearning: ["Kubernetes", "Apache Kafka", "GraphQL", "AWS Solutions Architecture"],
-  
-  goals2024: [
-    "Master System Design patterns",
-    "Build production-grade microservices",
-    "Contribute to open-source projects",
-    "Achieve AWS Solutions Architect certification"
-  ],
-  
+  learning: ["Kubernetes", "Apache Kafka", "GraphQL", "AWS Solutions Architecture"],
   philosophy: "Build scalable, Ship fast, Automate everything 🚀"
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack & Expertise
-
-<div align="center">
-
-### 💻 Languages & Frameworks
-
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
-<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,html,css,tailwind,bootstrap" />
-
-### 🗄️ Databases & Caching
-
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,firebase" />
-
-### ☁️ Cloud & DevOps
-
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-<img src="https://skillicons.dev/icons?i=kubernetes,linux,bash,git,postman,vercel" />
-
-### 🛠️ Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=vscode,vim,figma,notion,discord,stackoverflow" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 📊 Skill Proficiency & Learning Progress
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Arsenal
 
 <div align="center">
-
-### 🎯 Core Competencies
-
-| Technology | Proficiency | Experience | Status |
-|:-----------|:------------|:-----------|:-------|
-| **Node.js + Express** | ![](https://geps.dev/progress/90?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ years | 🔥 Expert |
-| **React.js** | ![](https://geps.dev/progress/85?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ years | ⚡ Advanced |
-| **MongoDB** | ![](https://geps.dev/progress/88?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ years | ⚡ Advanced |
-| **JavaScript/TypeScript** | ![](https://geps.dev/progress/90?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1.5+ years | 🔥 Expert |
-| **REST API Design** | ![](https://geps.dev/progress/92?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ years | 🔥 Expert |
-| **MySQL/PostgreSQL** | ![](https://geps.dev/progress/78?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ years | ⚡ Advanced |
-| **Next.js** | ![](https://geps.dev/progress/80?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ year | ⚡ Advanced |
-| **Redis Caching** | ![](https://geps.dev/progress/75?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ year | 📈 Intermediate |
-| **Docker** | ![](https://geps.dev/progress/72?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ year | 📈 Intermediate |
-| **CI/CD (GitHub Actions)** | ![](https://geps.dev/progress/80?dangerColor=00d9ff&warningColor=00d9ff&successColor=00d9ff) | 1+ year | ⚡ Advanced |
-
-### 🌱 Currently Learning
-
-| Technology | Progress | Target | Status |
-|:-----------|:---------|:-------|:-------|
-| **AWS Solutions Architecture** | ![](https://geps.dev/progress/65?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | March 2026 | 🎯 Active |
-| **Kubernetes** | ![](https://geps.dev/progress/55?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | April 2026 | 🎯 Active |
-| **Apache Kafka** | ![](https://geps.dev/progress/60?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | June 2026 | 🎯 Active |
-| **System Design** | ![](https://geps.dev/progress/70?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Ongoing | 🎯 Active |
-| **GraphQL** | ![](https://geps.dev/progress/50?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | January 2026 | 📚 Learning |
-| **Terraform (IaC)** | ![](https://geps.dev/progress/45?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Q1 2025 | 📚 Learning |
-| **Microservices Architecture** | ![](https://geps.dev/progress/68?dangerColor=ff6b6b&warningColor=ffd93d&successColor=6bcf7f) | Ongoing | 🎯 Active |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Architecture & System Design
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Client] -->|HTTPS| B[Load Balancer]
-    B --> C[API Gateway]
-    C --> D[Auth Service]
-    C --> E[User Service]
-    C --> F[Order Service]
-    D --> G[(Redis Cache)]
-    E --> H[(MongoDB)]
-    F --> I[(PostgreSQL)]
-    F --> J[Message Queue<br/>Kafka]
-    J --> K[Payment Service]
-    J --> L[Notification Service]
-    K --> M[AWS S3]
-    L --> N[Email/SMS]
-    
-    style A fill:#00d9ff,stroke:#00a8cc,color:#000
-    style B fill:#00d9ff,stroke:#00a8cc,color:#000
-    style C fill:#00d9ff,stroke:#00a8cc,color:#000
-    style J fill:#ff6b6b,stroke:#cc5555,color:#fff
-```
-
-### 🏗️ Architecture Patterns I Work With
 
 <table>
 <tr>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<br><strong>Microservices</strong>
-<br>Event-Driven Architecture
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
 </td>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<br><strong>RESTful APIs</strong>
-<br>Clean Architecture Pattern
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
 </td>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<br><strong>Cloud Native</strong>
-<br>Containerized Deployments
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br>Express
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br>Tailwind
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br>Redis
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+<br>Kubernetes
 </td>
 </tr>
 </table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏆 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<a href="https://github.com/Aiden781Xx">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aiden781Xx&repo=e-learning-platform&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&hide_border=true&show_icons=false" width="49%" />
+</a>
+
+</div>
 
 ### 📚 E-Learning Platform
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="400">
+Production MERN stack application with role-based access control, JWT authentication, video streaming via AWS S3, and integrated payment gateway.
 
-**Production-Ready MERN Stack Application**
+**Tech:** Node.js · Express · MongoDB · React · Redux · Redis · AWS S3
 
-```yaml
-Architecture:
-  ├─ Role-Based Access Control (RBAC)
-  ├─ JWT Authentication & Authorization
-  ├─ Video Streaming (AWS S3)
-  ├─ Payment Gateway Integration
-  └─ Course Management System
-
-Tech Stack:
-  Backend: Node.js, Express, MongoDB, Redis
-  Frontend: React, Redux, TailwindCSS
-  Cloud: AWS S3, EC2
-  Auth: JWT, bcrypt, OAuth2.0
-```
-
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aiden781Xx)
-[![Live](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://demo.com)
-
-</td>
-<td width="50%">
+---
 
 ### 📊 Real-Time Analytics Dashboard
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="400">
+High-performance data pipeline with real-time visualization, MongoDB aggregation, Redis caching layer, and responsive Chart.js dashboard.
 
-**High-Performance Data Pipeline**
+**Tech:** Express · MongoDB · Redis · Chart.js · Docker · Nginx
 
-```yaml
-Features:
-  ├─ Real-Time Data Visualization
-  ├─ MongoDB Aggregation Pipeline
-  ├─ Redis Caching Layer
-  ├─ Rate Limiting & Throttling
-  └─ Responsive Chart.js Dashboard
-
-Tech Stack:
-  Backend: Express, MongoDB, Redis
-  Frontend: React, Chart.js, D3.js
-  Deploy: Docker, AWS EC2, Nginx
-  Monitor: PM2, CloudWatch
-```
-
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aiden781Xx)
-[![Live](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://demo.com)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### 🛰️ Kafka Microservices Lab
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="400">
+Event-driven architecture sandbox implementing producer-consumer patterns, topic partitioning, and Docker Compose orchestration.
 
-**Event-Driven Architecture Sandbox**
+**Tech:** Apache Kafka · Node.js · Docker · Zookeeper
 
-```yaml
-Implementation:
-  ├─ Producer-Consumer Pattern
-  ├─ Topic Partitioning Strategy
-  ├─ Message Persistence & Replay
-  ├─ Dead Letter Queue Handling
-  └─ Docker Compose Setup
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-Tech Stack:
-  Messaging: Apache Kafka, Zookeeper
-  Services: Node.js, Express
-  Container: Docker, Docker Compose
-  Monitor: Kafka Manager, Prometheus
-```
-
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aiden781Xx)
-[![Docs](https://img.shields.io/badge/Documentation-00D9FF?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Aiden781Xx)
-
-</td>
-<td width="50%">
-
-### ☁️ AWS Cloud Infrastructure
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="400">
-
-**Terraform Infrastructure as Code**
-
-```yaml
-Infrastructure:
-  ├─ VPC with Public/Private Subnets
-  ├─ Auto-Scaling EC2 Instances
-  ├─ Application Load Balancer
-  ├─ RDS Multi-AZ Database
-  └─ S3 + CloudFront CDN
-
-Tech Stack:
-  IaC: Terraform, AWS CloudFormation
-  Compute: EC2, Lambda, ECS
-  Database: RDS (PostgreSQL), DynamoDB
-  Storage: S3, EBS, EFS
-  Network: VPC, Route53, CloudFront
-```
-
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aiden781Xx)
-[![Architecture](https://img.shields.io/badge/Architecture-00D9FF?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/Aiden781Xx)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiden781Xx&custom_title=Aiden's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff&area_color=1a1b27&title_color=ffffff&area=true" alt="GitHub Activity Graph">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aiden781Xx&show_icons=true&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiden781Xx&layout=compact&theme=react&bg_color=1F222E&title_color=00D9FF&text_color=ffffff&hide_border=true&langs_count=8" />
 
 <br><br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aiden781Xx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aiden781Xx&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=ffffff&dates=ffffff" />
-
-<br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiden781Xx&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&text_color=ffffff&langs_count=10" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Aiden781Xx&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&text_color=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiden781Xx&theme=react&bg_color=1F222E&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&hide_border=true" width="60%"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aiden781Xx&theme=tokyonight" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiden781Xx&custom_title=Contribution%20Graph&bg_color=1F222E&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=1F222E&title_color=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -322,172 +166,151 @@ Tech Stack:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aiden781Xx/Aiden781Xx/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<br>
-
-**🎮 Watch the snake eat my contributions! Updates every 12 hours.**
-
-[![Snake Generation Status](https://github.com/Aiden781Xx/Aiden781Xx/actions/workflows/snake.yml/badge.svg)](https://github.com/Aiden781Xx/Aiden781Xx/actions/workflows/snake.yml)
-
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🎯 Current Learning Roadmap
+## 🎯 Learning Roadmap 2025
 
 <div align="center">
 
 ```mermaid
-timeline
-    title 2025 Learning & Development Roadmap
-    
-    Q1 2025 : AWS Solutions Architect
-            : Complete Kafka microservices project
-            : Master Kubernetes basics
-            : System Design patterns
-    
-    Q2 2025 : GraphQL API development
-            : Advanced Docker & K8s
-            : Terraform infrastructure
-            : Contribute to open-source
-    
-    Q3 2025 : AWS DevOps Professional
-            : Build production SaaS
-            : Advanced System Design
-            : Mentor junior developers
-    
-    Q4 2025 : Blockchain fundamentals
-            : Advanced Kafka patterns
-            : Tech leadership skills
-            : Open-source maintainer
+mindmap
+  root((Aiden's<br/>Tech Journey))
+    Backend Mastery
+      System Design
+      Microservices
+      Kafka Streams
+    Cloud & DevOps
+      AWS Certified
+      Kubernetes
+      Terraform IaC
+    Frontend Evolution
+      Next.js 15
+      GraphQL APIs
+      React 19
+    Open Source
+      Contributions
+      Mentoring
+      Community
 ```
-
-### 🎓 Certifications & Goals
-
-| Certification | Status | Target Date |
-|--------------|--------|-------------|
-| AWS Solutions Architect Associate | 🎯 In Progress | 2026 |
-| AWS DevOps Engineer Professional | 📚 Planned | 2026 |
-| Certified Kubernetes Administrator (CKA) | 📚 Planned 2026 |
-| MongoDB Certified Developer | ✅ Completed | - |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 🌟 Development Philosophy
-
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
-<td width="25%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><br>
-<strong>Scalability First</strong><br>
-<sub>Design systems that grow</sub>
+<td align="center" width="50%">
+
+**🎓 Target Certifications**
+
+✅ MongoDB Certified Developer  
+🎯 AWS Solutions Architect (Q1 2026)  
+📚 Kubernetes Administrator (Q2 2026)  
+📚 AWS DevOps Professional (Q3 2026)
+
 </td>
-<td width="25%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
-<strong>Clean Architecture</strong><br>
-<sub>SOLID principles & patterns</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
-<strong>Test-Driven</strong><br>
-<sub>Quality over speed</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"><br>
-<strong>Automate Everything</strong><br>
-<sub>CI/CD & DevOps mindset</sub>
+<td align="center" width="50%">
+
+**🌟 2025 Goals**
+
+🚀 Master System Design  
+🏗️ Build Production SaaS  
+🤝 Open-Source Contributions  
+🎓 Mentor Junior Developers
+
 </td>
 </tr>
 </table>
 
-### 💭 Code Philosophy
-
-> **"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."** - Martin Fowler
-
-```python
-class Developer:
-    def __init__(self):
-        self.code_quality = ["Clean", "Testable", "Scalable", "Maintainable"]
-        self.approach = "API-First Design"
-        self.mindset = "Build to Last, Not Just to Launch"
-        
-    def daily_routine(self):
-        return [
-            "☕ Coffee",
-            "💻 Code",
-            "🧪 Test",
-            "📚 Learn",
-            "🚀 Deploy",
-            "🔄 Repeat"
-        ]
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-sharma-193226311/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivambhardwaj750000@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personalshivamglbajaj.netlify.app/)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourprofile)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
-
-<br>
-
-### 💬 Let's Collaborate!
-
-**I'm interested in:**
-- 🚀 Backend & Cloud Architecture projects
-- 🏗️ System Design discussions
-- 🤝 Open-source contributions
-- 💼 Freelance opportunities
-- 🎓 Mentoring & knowledge sharing
-
-**Feel free to reach out for collaborations or just a tech chat!**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aiden781Xx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=Aiden781Xx&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 Weekly Development Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+## 💡 Development Philosophy
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"><br>
+<b>Scalability First</b><br>
+<sub>Design for growth</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
+<b>Clean Code</b><br>
+<sub>SOLID principles</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
+<b>Test-Driven</b><br>
+<sub>Quality over speed</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"><br>
+<b>Automate</b><br>
+<sub>CI/CD mindset</sub>
+</td>
+</tr>
+</table>
 
-<br>
+### 💭 Code Mantra
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-<img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
+> *"Build to Last, Not Just to Launch"*
+
+```python
+class Developer:
+    def __init__(self):
+        self.mindset = "API-First Design"
+        self.values = ["Clean", "Testable", "Scalable"]
+    
+    def daily_routine(self):
+        return ["☕ Coffee", "💻 Code", "🧪 Test", "🚀 Deploy"]
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📬 Let's Connect & Collaborate
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shivam-sharma-193226311/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:shivambhardwaj750000@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Drop%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://personalshivamglbajaj.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 <br><br>
 
-**⭐ If you like my work, consider giving a star to my repositories!**
+**💼 Open for:**  
+Freelance Projects · Backend Architecture · System Design · Cloud Solutions · Mentorship
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<br><br>
+
+### ⭐ If you like my work, consider starring my repositories!
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
