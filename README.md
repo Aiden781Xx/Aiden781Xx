@@ -170,7 +170,7 @@ Event-driven architecture sandbox implementing producer-consumer patterns, topic
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🎯 Learning Roadmap 2025
+## 🎯 Learning Roadmap 2026
 
 <div align="center">
 
@@ -211,7 +211,7 @@ mindmap
 </td>
 <td align="center" width="50%">
 
-**🌟 2025 Goals**
+**🌟 2026 Goals**
 
 🚀 Master System Design  
 🏗️ Build Production SaaS  
