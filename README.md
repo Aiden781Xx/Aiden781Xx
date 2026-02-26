@@ -68,10 +68,7 @@ Node.js • Express • MongoDB • React • Redis
 
 - Server provisioning  
 - Website deployment workflows  
-- Docker containerization  
-- AWS-based deployment  
-- Linux server management  
-
+- Docker containerization
 **Focus:** Backend + DevOps integration mindset.
 
 </details>
