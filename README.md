@@ -1,9 +1,6 @@
- <h1 align="center">
-  Shivam Kumar Sharma
-</h1>
-
+<!-- Dynamic Gradient Header -->
 <p align="center">
-  <b>Backend-Focused MERN Developer</b> • Night Shift Intern @ UrbanWeb.Host • System Design Learner
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Shivam%20Kumar%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend-Focused%20MERN%20Developer%20|%20Night%20Shift%20Intern&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
@@ -14,96 +11,110 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://personalshivamglbajaj.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🚀 <span style="color:#00BFFF;">Current Role</span>
+## 🚀 Current Role
 
-### 🌙 Night Shift Internship — <span style="color:#FF6B6B;">UrbanWeb.Host</span>
+<details>
+<summary><b>🌙 Night Shift Intern — UrbanWeb.Host (Click to Expand)</b></summary>
 
-- Backend API development & optimization  
+- Backend API development  
 - Production deployment handling  
-- Server configuration & debugging  
+- Dockerized services  
+- Nginx configuration  
 - Performance tuning  
 
-> Writing production-grade backend systems under real-world constraints.
+> Exposure to real-world production constraints and live systems.
+
+</details>
 
 ---
 
-## 🔥 <span style="color:#00FFAA;">Active Projects</span>
+## 🔥 Active Projects
 
-### 🧠 <span style="color:#FFD700;">Online Exam System (In Progress)</span>
+### 🧠 Online Exam System
 
-Scalable exam platform built for academic use.
+<details>
+<summary><b>View Architecture & Features</b></summary>
 
 **Core Features**
-- JWT Authentication  
+- JWT authentication  
 - Role-based access (Admin / Student)  
 - Timed exams + auto-submit  
 - Result analytics  
 - Question bank management  
 
-**Architecture Focus**
-- Modular backend structure  
-- Clean controller-service pattern  
-- Optimized database queries  
+**Backend Design**
+- Controller-Service architecture  
+- Modular routing  
+- Optimized MongoDB queries  
+- Session handling for anti-cheating logic  
 
-Tech Stack:
-`Node.js` `Express` `MongoDB` `React` `Redis`
+**Tech Stack**
+Node.js • Express • MongoDB • React • Redis  
 
----
-
-### 🌐 <span style="color:#FF8C00;">UrbanWeb.Host Infrastructure</span>
-
-Hosting & web services platform.
-
-- Deployment workflows  
-- Domain & hosting management  
-- Dockerized services  
-- Nginx reverse proxy  
-
-Tech Stack:
-`Node.js` `Docker` `AWS` `Linux` `Nginx`
+</details>
 
 ---
 
-## 🛠 <span style="color:#00BFFF;">Tech Stack</span>
+### 🌐 UrbanWeb.Host Infrastructure
 
-### Backend
-`Node.js` • `Express` • `REST APIs` • `JWT` • `Microservices`
+<details>
+<summary><b>View Infrastructure Details</b></summary>
 
-### Frontend
-`React` • `Next.js` • `TypeScript` • `Tailwind`
+- Server provisioning  
+- Website deployment workflows  
+- Docker containerization  
+- AWS-based deployment  
+- Linux server management  
 
-### Databases
-`MongoDB` • `PostgreSQL` • `MySQL` • `Redis`
+**Focus:** Backend + DevOps integration mindset.
 
-### DevOps
-`Docker` • `AWS` • `CI/CD` • `Linux`
+</details>
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aiden781Xx&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiden781Xx&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,typescript,mongodb,postgresql,mysql,redis,docker,aws,linux" />
+
 </p>
 
 ---
 
-## 🎯 2026 Focus
+## 📊 Live GitHub Analytics
 
-- Master System Design  
-- Build Production SaaS  
-- Advance Cloud & DevOps  
-- Contribute to Open Source  
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aiden781Xx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiden781Xx&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aiden781Xx&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 2026 Engineering Focus
+
+- System Design mastery  
+- Event-driven architecture (Kafka)  
+- Production SaaS architecture  
+- Advanced AWS & DevOps  
+- Performance-first backend systems  
 
 ---
 
 <p align="center">
   <b>Build scalable systems. Ship clean code. Optimize relentlessly.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer"/>
 </p>
